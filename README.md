@@ -18,4 +18,4 @@ My BRS was created with a different stakeholder at a different company, so some 
 [BRS Document](https://github.com/Spexon/Meal-Tracking-System/blob/92fc66d816a8f77b0be97bd2ff00b1694dc49630/Business%20Requirements%20Specification.pdf)
 
 ## Technology
-Throughout this course, I utilized [Jira](https://www.atlassian.com/software/jira) for requirements management and issue tracking, as well as note taking and elicitation with my stakeholders.
+Throughout this course, I utilized [Jira](https://www.atlassian.com/software/jira) for requirements management and issue tracking, as well as note taking and elicitation with my stakeholders. I used [Figma](https://www.figma.com/) to demonstrate my prototypes to my stakeholders
