@@ -5,7 +5,7 @@ This software was created during my Software Specifications course. This softwar
 ## Prototype
 Low fidelity prototype that I demonstrated to my stakeholder
 
-![gif](https://media.giphy.com/media/7oZy5FF41TLAojgSCj/giphy.gif)
+![gif](https://media.giphy.com/media/QHsJjlvWSGHnDWEprW/giphy.gif)
 
 ## Documents Created
 
